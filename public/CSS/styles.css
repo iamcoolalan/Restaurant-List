@@ -78,6 +78,24 @@ header {
   text-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
 }
 
+.error {
+  color: burlywood;
+}
+
+.back-to-home {
+  display: block;
+  margin: 0 auto;
+  background-color: #fce2cf;
+}
+
+.back-to-home a {
+  color: brown;
+}
+
+.back-to-home a:hover {
+  color: black;
+}
+
 @media screen and (max-width: 992px) {
 
   .card img {
